@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🏥 Healthcare Data Analysis Project
 
 ## 📌 Overview
@@ -66,7 +70,10 @@ Console summary in terminal.
 Charts saved in reports/figs/.
 
 📈 Example Outputs
-(Screenshots can be added here once charts are generated, e.g., admissions by department, readmission rates, etc.)
+## 📈 Example Outputs
+![Admissions by Department](reports/figs/admissions_by_department.png)
+![Average Cost by Department](reports/figs/avg_cost_by_department.png)
+![Readmission Rates](reports/figs/readmission_yes_by_department.png)
 
 📌 Notes
 Dataset is synthetic and anonymized.
